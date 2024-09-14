@@ -1,1 +1,1 @@
-tomcat:9.0.94-jdk17-corretto registry.cn-shanghai.aliyuncs.com/boogcloud/tomcat:9.0.94-jdk17-corretto
+container-registry.oracle.com/graalvm/jdk:17 registry.cn-shanghai.aliyuncs.com/boogcloud/graalvm-jdk:17
