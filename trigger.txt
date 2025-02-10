@@ -1,1 +1,1 @@
-container-registry.oracle.com/graalvm/jdk:17 registry.cn-shanghai.aliyuncs.com/boogcloud/graalvm-jdk:17
+docker.n8n.io/n8nio/n8n:latest registry.cn-shanghai.aliyuncs.com/boogcloud/n8n:25_2
