@@ -1,1 +1,1 @@
-datart/datart:latest registry.cn-shanghai.aliyuncs.com/boogcloud/datart:25_2
+prom/prometheus:latest registry.cn-shanghai.aliyuncs.com/boogcloud/promethus:25_6
