@@ -1,1 +1,1 @@
-prom/prometheus:latest registry.cn-shanghai.aliyuncs.com/boogcloud/promethus:25_6
+grafana/grafana:latest registry.cn-shanghai.aliyuncs.com/boogcloud/grafana:25_6
