@@ -1,1 +1,1 @@
-tomcat:9.0.106-jdk11-corretto registry.cn-shanghai.aliyuncs.com/boogcloud/tomcat9-jdk11:25_6
+tomcat:9.0-jdk11-corretto registry.cn-shanghai.aliyuncs.com/boogcloud/tomcat9-jdk11:25_6
