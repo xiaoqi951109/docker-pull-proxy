@@ -1,1 +1,1 @@
-tomcat:9.0-jdk11-corretto registry.cn-shanghai.aliyuncs.com/boogcloud/tomcat9-jdk11:25_6
+blowsnow/n8n-chinese registry.cn-shanghai.aliyuncs.com/boogcloud/n8n-chinese:25_10
