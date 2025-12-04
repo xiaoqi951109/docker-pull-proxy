@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-shanghai.aliyuncs.com/boogcloud/redis:6-alpine
+langgenius/dify-sandbox:0.2.12 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-sandbox:0.2.12
