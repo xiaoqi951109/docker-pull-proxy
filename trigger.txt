@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.cn-shanghai.aliyuncs.com/boogcloud/squid:2025.12
+certbot/certbot registry.cn-shanghai.aliyuncs.com/boogcloud/certbot
