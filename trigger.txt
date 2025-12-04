@@ -1,1 +1,1 @@
-oceanbase/seekdb:latest registry.cn-shanghai.aliyuncs.com/boogcloud/seekdb:2025.12
+langgenius/qdrant:v1.8.3 registry.cn-shanghai.aliyuncs.com/boogcloud/qdrant:v1.8.3
