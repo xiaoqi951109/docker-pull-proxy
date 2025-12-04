@@ -1,1 +1,1 @@
-blowsnow/n8n-chinese registry.cn-shanghai.aliyuncs.com/boogcloud/n8n-chinese:25_10
+langgenius/dify-api:1.10.1 registry.cn-shanghai.aliyuncs.com/boogcloud/dify:1.10.1
