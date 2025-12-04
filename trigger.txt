@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.12 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.4.1-local registry.cn-shanghai.aliyuncs.com/boogcloud/dify-plugin-daemon:0.4.1-local
