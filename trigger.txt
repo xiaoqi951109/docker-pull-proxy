@@ -1,1 +1,1 @@
-nginx:latest registry.cn-shanghai.aliyuncs.com/boogcloud/nginx/2025.12
+semitechnologies/weaviate:1.27.0 registry.cn-shanghai.aliyuncs.com/boogcloud/weaviate:1.27.0
