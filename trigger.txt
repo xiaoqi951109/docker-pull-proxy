@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.27.0 registry.cn-shanghai.aliyuncs.com/boogcloud/weaviate:1.27.0
+oceanbase/oceanbase-ce:4.3.5-lts registry.cn-shanghai.aliyuncs.com/boogcloud/oceanbase-ce:4.3.5-lts
