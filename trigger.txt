@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.4.1-local registry.cn-shanghai.aliyuncs.com/boogcloud/dify-plugin-daemon:0.4.1-local
+ubuntu/squid:latest registry.cn-shanghai.aliyuncs.com/boogcloud/squid:2025.12
