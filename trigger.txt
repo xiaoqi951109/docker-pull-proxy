@@ -1,1 +1,1 @@
-container-registry.oracle.com/database/free:latest registry.cn-shanghai.aliyuncs.com/boogcloud/database-free:2025.12
+vastdata/vastbase-vector registry.cn-shanghai.aliyuncs.com/boogcloud/vastbase-vector
