@@ -1,1 +1,1 @@
-opensearchproject/opensearch-dashboards:latest registry.cn-shanghai.aliyuncs.com/boogcloud/opensearch-dashboards:latest
+opengauss/opengauss:7.0.0-RC1 registry.cn-shanghai.aliyuncs.com/boogcloud/opengauss:7.0.0-RC1
