@@ -1,1 +1,1 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:latest registry.cn-shanghai.aliyuncs.com/boogcloud/unstructured-api:2025.12
+myscale/myscaledb:1.6.4 registry.cn-shanghai.aliyuncs.com/boogcloud/myscaledb:1.6.4
