@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16 registry.cn-shanghai.aliyuncs.com/boogcloud/pgvector:pg16
+vastdata/vastbase-vector registry.cn-shanghai.aliyuncs.com/boogcloud/vastbase-vector:2025.12
