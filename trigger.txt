@@ -1,1 +1,1 @@
-myscale/myscaledb:1.6.4 registry.cn-shanghai.aliyuncs.com/boogcloud/myscaledb:1.6.4
+matrixorigin/matrixone:2.1.1 registry.cn-shanghai.aliyuncs.com/boogcloud/matrixone:2.1.1
