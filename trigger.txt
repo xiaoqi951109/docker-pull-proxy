@@ -1,1 +1,1 @@
-matrixorigin/matrixone:2.1.1 registry.cn-shanghai.aliyuncs.com/boogcloud/matrixone:2.1.1
+docker.elastic.co/elasticsearch/elasticsearch:8.14.3 registry.cn-shanghai.aliyuncs.com/boogcloud/elasticsearch:8.14.3
