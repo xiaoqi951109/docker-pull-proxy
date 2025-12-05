@@ -1,1 +1,1 @@
-opensearchproject/opensearch:latest registry.cn-shanghai.aliyuncs.com/boogcloud/opensearch:latest
+opensearchproject/opensearch-dashboards:latest registry.cn-shanghai.aliyuncs.com/boogcloud/opensearch-dashboards:latest
