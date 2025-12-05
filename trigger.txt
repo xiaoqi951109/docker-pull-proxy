@@ -1,1 +1,1 @@
-vastdata/vastbase-vector registry.cn-shanghai.aliyuncs.com/boogcloud/vastbase-vector:2025.12
+tensorchord/pgvecto-rs:pg16-v0.3.0 registry.cn-shanghai.aliyuncs.com/boogcloud/pgvecto-rs:pg16-v0.3.0
