@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.6.3 registry.cn-shanghai.aliyuncs.com/boogcloud/milvus:v2.6.3
+opensearchproject/opensearch:latest registry.cn-shanghai.aliyuncs.com/boogcloud/opensearch:latest
