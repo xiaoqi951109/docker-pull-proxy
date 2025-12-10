@@ -1,1 +1,1 @@
-langgenius/dify-web:1.9.2 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-web:1.9.2
+langgenius/dify-plugin-daemon:0.3.3-local registry.cn-shanghai.aliyuncs.com/boogcloud/dify-plugin-daemon:0.3.3-local
