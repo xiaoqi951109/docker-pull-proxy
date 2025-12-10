@@ -1,1 +1,1 @@
-busybox:latest registry.cn-shanghai.aliyuncs.com/boogcloud/busybox:2025.12
+langgenius/dify-api:1.10.1-fix.1 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-api:1.10.1-fix.1
