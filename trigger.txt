@@ -1,1 +1,1 @@
-selenium/standalone-chrome registry.cn-shanghai.aliyuncs.com/boogcloud/selenium/standalone-chrome
+selenium/standalone-chrome registry.cn-shanghai.aliyuncs.com/boogcloud/standalone-chrome
