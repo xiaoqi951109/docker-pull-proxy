@@ -1,1 +1,1 @@
-langgenius/dify-web:1.13.0 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-web:1.13.0
+langgenius/dify-api:1.13.0 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-api:1.13.0
