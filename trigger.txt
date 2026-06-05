@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.5.3-local registry.cn-shanghai.aliyuncs.com/boogcloud/dify-plugin-daemon:0.5.3-local
+docker.elastic.co/elasticsearch/elasticsearch:8.17.0 registry.cn-shanghai.aliyuncs.com/boogcloud/elasticsearch:8.17.0
