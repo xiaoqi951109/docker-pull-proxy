@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-shanghai.aliyuncs.com/boogcloud/redis:6-alpine
+ubuntu/squid:latest registry.cn-shanghai.aliyuncs.com/boogcloud/ubuntu/squid:latest
