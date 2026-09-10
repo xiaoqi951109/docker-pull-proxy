@@ -1,1 +1,1 @@
-pgsty/silo:RELEASE.2026-08-06T00-00-00Z registry.cn-shanghai.aliyuncs.com/boogcloud/silo:RELEASE.2026-08-06T00-00-00Z
+valkey/valkey:8 registry.cn-shanghai.aliyuncs.com/boogcloud/valkey:8
