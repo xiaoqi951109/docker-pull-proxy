@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.6.10-local registry.cn-shanghai.aliyuncs.com/boogcloud/dify-plugin-daemon:0.6.10-local
+langgenius/dify-agent-backend:1.17.0 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-agent-backend:1.17.0
