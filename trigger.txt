@@ -1,1 +1,1 @@
-valkey/valkey:8 registry.cn-shanghai.aliyuncs.com/boogcloud/valkey:8
+langgenius/dify-api:1.17.0 registry.cn-shanghai.aliyuncs.com/boogcloud/dify-api:1.17.0
