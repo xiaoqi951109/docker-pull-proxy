@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.cn-shanghai.aliyuncs.com/boogcloud/ubuntu/squid:latest
+nginx:latest registry.cn-shanghai.aliyuncs.com/boogcloud/nginx:latest
