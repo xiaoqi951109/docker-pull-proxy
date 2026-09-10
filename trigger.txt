@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.27.1 registry.cn-shanghai.aliyuncs.com/boogcloud/infiniflow/ragflow:v0.27.1
+elasticsearch:8.11.3 registry.cn-shanghai.aliyuncs.com/boogcloud/elasticsearch:8.11.3
