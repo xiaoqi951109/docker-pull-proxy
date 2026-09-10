@@ -1,1 +1,1 @@
-elasticsearch:8.11.3 registry.cn-shanghai.aliyuncs.com/boogcloud/elasticsearch:8.11.3
+mysql:8.0.40 registry.cn-shanghai.aliyuncs.com/boogcloud/mysql:8.0.40
