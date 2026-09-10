@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-shanghai.aliyuncs.com/boogcloud/postgres:15-alpine
+redis:6-alpine registry.cn-shanghai.aliyuncs.com/boogcloud/redis:6-alpine
