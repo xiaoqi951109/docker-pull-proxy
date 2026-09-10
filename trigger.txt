@@ -1,1 +1,1 @@
-python:3.11-slim registry.cn-shanghai.aliyuncs.com/boogcloud/python:3.11-slim
+pgsty/silo:RELEASE.2026-08-06T00-00-00Z registry.cn-shanghai.aliyuncs.com/boogcloud/pgsty/silo:RELEASE.2026-08-06T00-00-00Z
