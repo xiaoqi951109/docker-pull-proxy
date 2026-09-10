@@ -1,1 +1,1 @@
-nginx:latest registry.cn-shanghai.aliyuncs.com/boogcloud/nginx:latest
+langgenius/dify-sandbox:0.2.15 registry.cn-shanghai.aliyuncs.com/boogcloud/sandbox:0.2.15
